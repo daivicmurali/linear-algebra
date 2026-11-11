@@ -1,0 +1,26 @@
+item_id,title,artist,album,genre,year,rating,duration,cover_url,vibe
+MUS01,Blinding Lights,The Weeknd,After Hours,Pop,2020,4.9,3:20,https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80,Upbeat Synthwave
+MUS02,Levitating,Dua Lipa,Future Nostalgia,Pop,2020,4.8,3:23,https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80,Disco Dance Pop
+MUS03,Anti-Hero,Taylor Swift,Midnights,Pop,2022,4.7,3:21,https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80,Moody Electro-Pop
+MUS04,Shape of You,Ed Sheeran,÷ (Divide),Pop,2017,4.6,3:53,https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=800&q=80,Tropical Pop Rhythm
+MUS05,Starboy,The Weeknd ft. Daft Punk,Starboy,Pop,2016,4.8,3:50,https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80,Futuristic R&B
+MUS06,Clair de Lune,Claude Debussy,Suite Bergamasque,Classical,1905,4.9,5:03,https://images.unsplash.com/photo-1520523839898-5071270409a0?auto=format&fit=crop&w=800&q=80,Serene Impressionist Piano
+MUS07,Experience,Ludovico Einaudi,In a Time Lapse,Classical,2013,4.9,5:15,https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=800&q=80,Cinematic Neoclassical
+MUS08,Four Seasons: Winter,Antonio Vivaldi,The Four Seasons,Classical,1725,4.8,8:42,https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?auto=format&fit=crop&w=800&q=80,Dynamic Baroque Violin
+MUS09,Nuvole Bianche,Ludovico Einaudi,Una Mattina,Classical,2004,4.9,5:57,https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=800&q=80,Emotional Solitary Piano
+MUS10,Moonlight Sonata (Adagio),Ludwig van Beethoven,Piano Sonata No. 14,Classical,1801,4.9,6:05,https://images.unsplash.com/photo-1507838153414-b4b713384a76?auto=format&fit=crop&w=800&q=80,Poignant Classical Masterpiece
+MUS11,Lose Yourself,Eminem,8 Mile Soundtrack,Hip-Hop,2002,4.9,5:26,https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80,Energetic Motivational Rap
+MUS12,HUMBLE.,Kendrick Lamar,DAMN.,Hip-Hop,2017,4.8,2:57,https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=800&q=80,Hard-Hitting Heavy Bass
+MUS13,God's Plan,Drake,Scorpion,Hip-Hop,2018,4.7,3:18,https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80,Catchy Melodic Trap
+MUS14,Sicko Mode,Travis Scott,Astroworld,Hip-Hop,2018,4.8,5:12,https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80,Psychedelic Multi-Beat Rap
+MUS15,Alright,Kendrick Lamar,To Pimp a Butterfly,Hip-Hop,2015,4.9,3:39,https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80,Jazz Rap Anthem
+MUS16,Bohemian Rhapsody,Queen,A Night at the Opera,Rock,1975,5.0,5:55,https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=800&q=80,Operatic Classic Rock
+MUS17,Sweet Child O' Mine,Guns N' Roses,Appetite for Destruction,Rock,1987,4.8,5:56,https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=800&q=80,Hard Rock Guitar Riff
+MUS18,In the End,Linkin Park,Hybrid Theory,Rock,2000,4.9,3:36,https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80,Nu Metal Emotional Rock
+MUS19,Hotel California,Eagles,Hotel California,Rock,1976,4.9,6:30,https://images.unsplash.com/photo-1520523839898-5071270409a0?auto=format&fit=crop&w=800&q=80,Legendary Solo Rock
+MUS20,Back in Black,AC/DC,Back in Black,Rock,1980,4.8,4:15,https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?auto=format&fit=crop&w=800&q=80,Thunderous Heavy Rock
+MUS21,Someone Like You,Adele,21,Melody,2011,4.9,4:45,https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=800&q=80,Soulful Heartbreak Ballad
+MUS22,Perfect,Ed Sheeran,÷ (Divide),Melody,2017,4.8,4:23,https://images.unsplash.com/photo-1507838153414-b4b713384a76?auto=format&fit=crop&w=800&q=80,Romantic Acoustic Melody
+MUS23,Fix You,Coldplay,X&Y,Melody,2005,4.9,4:55,https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80,Uplifting Emotional Melody
+MUS24,All of Me,John Legend,Love in the Future,Melody,2013,4.8,4:29,https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80,Soulful Piano Serenade
+MUS25,Stay With Me,Sam Smith,In the Lonely Hour,Melody,2014,4.7,2:52,https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=800&q=80,Gospel-Infused Ballad
